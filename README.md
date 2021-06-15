@@ -12,4 +12,4 @@ Run difference to see function performance
 
     nodejs difference.js ./list1.json ./list2.json
 
-Result and microtime duration is printed.
+Result and microtime duration is printed
